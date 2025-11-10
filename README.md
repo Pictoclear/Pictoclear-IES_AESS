@@ -28,7 +28,7 @@ It uses an **Attention U-Net** to restore sharpness, improve detail, and preserv
 
 Install dependencies:
 
-```bash
+
 pip install -r requirements.txt
 
 

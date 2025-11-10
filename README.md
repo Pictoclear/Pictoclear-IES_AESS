@@ -1,4 +1,4 @@
-# Mars Image Enhancement
+# Image Enhancement
 
 
 Deblur Mars rover images using deep learning (Attention U-Net).
@@ -13,7 +13,7 @@ Deblur Mars rover images using deep learning (Attention U-Net).
 
 pip install -r requirements.txt
 
-``````bashDeep learning deblurring for Mars rover images.
+``````bash Deep learning deblurring for Mars rover images.
 
 
 

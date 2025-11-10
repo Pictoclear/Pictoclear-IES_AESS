@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+outputs/
+data/mars/
+weights/*.pth
+!weights/.gitkeep
+training_samples/
+*.log
+
+# Keep folder structure
+!outputs/.gitkeep
+!data/.gitkeep
+!input/.gitkeep
